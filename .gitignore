@@ -1,0 +1,6 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+publisher.zip
+tests/e2e/.last-run
+
